@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+}
+
+.nav{
+    height: 100%;
+    width: 250px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.logo{
+    padding-left: 35px;
+    padding-top: 15px;
+    font-size: xx-large;
+    color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.profile{
+    margin-left: 40px;
+    margin-top: 100px;
+    width: 170px;
+    height: 30px;
+    color: royalblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.profile h5{
+    margin-left: 50px;
+    padding-top: 10px;;
+}
+
+.profile:hover{
+    background-color: royalblue;
+    color: #fff;
+    border-radius: 7px;
+}
+
+.circles{
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 170px;
+    height: 30px;
+    color: royalblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.circles h5{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.circles:hover{
+    background-color: royalblue;
+    color: #fff;
+    border-radius: 7px;
+}
+
+.logout{
+    margin-left: 75px;
+    margin-top: 375px;
+    width: 100px;
+    height: 30px;
+    color: royalblue;
+    background-color: rgb(0 0 0 / 0.2);
+    border-radius: 7px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logout h5{
+    margin-left: 25px;
+    padding-top: 10px;
+}
+
+.details{
+    margin-left: 252px;
+    margin-top: -800px;
+    width: 1284px;
+    height: 45px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    font-family: "Courier New", Courier, monospace;
+    color: royalblue;
+}
+
+.name{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
+.dp{
+    margin-left: 1150px;
+    margin-top: -45px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: black;
+}
+
+.join{
+    margin-top: 40px;
+    margin-left: 320px;
+    width: 1150px;
+    height: 175px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 10px;
+}
+
+.join img{
+    width: auto;
+    height: 180px;
+    margin-top: -5px;
+    margin-left: 20px;
+}
+
+.text{
+    margin-top: -165px;
+    margin-left: 265px;
+}
+
+.text h1{
+    margin-left: 235px;
+    color: royalblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p1{
+    margin-left: 165px;
+}
+
+.p2{
+    margin-left: 275px;
+}
+
+.b1{
+    background: #fff;
+    border: 1px solid royalblue;
+    border-radius: 7px;
+    width: 100px;
+    height: 25px;
+    color: royalblue;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+.b1:hover{
+    background: royalblue;
+    color: #fff;
+}
+
+.b2{
+    background: #fff;
+    border: 1px solid royalblue;
+    border-radius: 7px;
+    width: 100px;
+    height: 25px;
+    color: royalblue;
+    margin-left: 10px;
+}
+
+.b2:hover{
+    background: royalblue;
+    color: #fff;
+}
+
+.nothing{
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+.nothing img{
+    width: auto;
+    height: 250px;
+    filter: grayscale(100%);
+}
